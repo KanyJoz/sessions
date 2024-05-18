@@ -1,0 +1,10 @@
+.idea/
+.DS_STORE
+.vscode
+composer.phar
+composer.lock
+.phpunit.result.cache
+.phpunit.cache
+phpunit.xml.bak
+vendor/
+build/
